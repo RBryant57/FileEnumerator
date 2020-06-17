@@ -1,0 +1,11 @@
+D:\YellowCaddisDevelopment\Examples\FileEnumerator\FileEnumerator\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\YellowCaddisDevelopment\Examples\FileEnumerator\FileEnumerator\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\YellowCaddisDevelopment\Examples\FileEnumerator\FileEnumerator\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\YellowCaddisDevelopment\Examples\FileEnumerator\FileEnumerator\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\YellowCaddisDevelopment\Examples\FileEnumerator\FileEnumerator\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\YellowCaddisDevelopment\Examples\FileEnumerator\FileEnumerator\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\YellowCaddisDevelopment\Examples\FileEnumerator\FileEnumerator\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\YellowCaddisDevelopment\Examples\FileEnumerator\FileEnumerator\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\YellowCaddisDevelopment\Examples\FileEnumerator\FileEnumerator\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\YellowCaddisDevelopment\Examples\FileEnumerator\FileEnumerator\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\YellowCaddisDevelopment\Examples\FileEnumerator\FileEnumerator\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

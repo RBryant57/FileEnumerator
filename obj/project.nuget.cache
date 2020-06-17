@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "id3t0KkvVYgyNcnDEhCRwdwB9d0H8zRrO2aVhYt8n1TWr3P7+ezikAH2HLOZYQfWcSvxUUA9QQ4qRiWsLgAGMg==",
+  "success": true,
+  "projectFilePath": "D:\\YellowCaddisDevelopment\\YCDProjects\\YCDApplications\\FileEnumerator\\FileEnumerator.Console\\FileEnumerator.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\administrator\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.5\\microsoft.extensions.configuration.3.1.5.nupkg.sha512",
+    "C:\\Users\\administrator\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.5\\microsoft.extensions.configuration.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\administrator\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.5\\microsoft.extensions.configuration.fileextensions.3.1.5.nupkg.sha512",
+    "C:\\Users\\administrator\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.5\\microsoft.extensions.configuration.json.3.1.5.nupkg.sha512",
+    "C:\\Users\\administrator\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.5\\microsoft.extensions.fileproviders.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\administrator\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.5\\microsoft.extensions.fileproviders.physical.3.1.5.nupkg.sha512",
+    "C:\\Users\\administrator\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.5\\microsoft.extensions.filesystemglobbing.3.1.5.nupkg.sha512",
+    "C:\\Users\\administrator\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
